@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I'm currently working on projects related to full-stack development.<br>🤝 I’m looking for help with resources I can use, as well as fun projects I could try out.<br>🌱 I’m currently learning full-stack, which includes: ReactJS, NodeJS, API's, Databases, Svelte, and more. 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joakim.christiansen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joakim-solvang-christiansen-80798a28a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joakim.solvang.christiansen@gmail.com) 
 
